@@ -1,5 +1,8 @@
 {
   "name": "Esat Solitaire",
-  "description": "A sophisticated Solitaire game featuring AI-generated card backs, multi-language support (AR, EN, TR, DE), relaxing ambient music, and smart controls.",
-  "start_url": "/esat-photo/esat-solitaire-2/"
+  "short_name": "Esat Solitaire",
+  "start_url": "/esat-photo/esat-solitaire-2/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
 }
